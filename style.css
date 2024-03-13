@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    background: url(https://static.vecteezy.com/system/resources/previews/022/508/213/non_2x/lofi-art-style-8k-image-landscape-generative-ai-free-photo.jpeg);
+}
+
+#clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+    font-size: 60px;
+    letter-spacing: 7px;
+    font-size: 122px;
+    background: linear-gradient(to right, #330033,#000000);
+    color: hotpink;
+    border: 3px solid rgb(255, 20, 147);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(255, 20, 147, 0.8);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    border-radius: 150px;
+}
